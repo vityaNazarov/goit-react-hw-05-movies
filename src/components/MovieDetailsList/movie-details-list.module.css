@@ -1,0 +1,49 @@
+.buttonBack {
+  padding: 5px;
+  width: 100%;
+}
+
+.btnBack {
+  margin-left: 30px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.wrapperDetailsList {
+  display: flex;
+}
+
+.image {
+  display: block;
+  margin-left: 30px;
+}
+
+.description {
+  display: block;
+  padding: 0 15px;
+}
+
+.additional {
+  list-style: none;
+}
+
+.text {
+  margin: auto;
+  padding: 10px 30px;
+}
+
+.list {
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.infoAddit {
+  padding: 5px 0;
+  margin: 0 25px;
+  cursor: pointer;
+}
+
+.infoAddit::marker {
+  color: black;
+}

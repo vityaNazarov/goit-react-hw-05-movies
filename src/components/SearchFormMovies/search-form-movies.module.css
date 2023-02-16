@@ -1,0 +1,17 @@
+.searchForm {
+  /* display: flex; */
+  margin-left: 20px;
+}
+
+.input {
+  padding: 8px 20px;
+  border-radius: 8px;
+  outline: transparent;
+  margin-right: 20px;
+}
+
+.button {
+  cursor: pointer;
+  padding: 8px 20px;
+  border-radius: 8px;
+}
