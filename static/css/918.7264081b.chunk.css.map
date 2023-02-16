@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/918.7264081b.chunk.css","mappings":"AAAA,kCACC,aAAc,CACd,kBACD","sources":["pages/CastPage/cast-page.module.css"],"sourcesContent":[".descriptionCast {\n\tdisplay: block;\n\tmargin-bottom: 25px;\n}\n"],"names":[],"sourceRoot":""}
