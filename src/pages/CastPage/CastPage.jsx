@@ -48,6 +48,7 @@ const CastPage = () => {
       <ul>{elements}</ul>
       {loading && <Loader />}
       {error && <p>...Posts load failed</p>}
+      {!infoActors.length && <p>We don't have any cast for this movie</p>}
     </div>
   );
 };

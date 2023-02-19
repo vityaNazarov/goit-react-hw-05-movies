@@ -8,7 +8,7 @@ const MovieDetailsList = ({ movie }) => {
   const navigate = useNavigate();
   const location = useLocation();
   const from = location.state?.from || '/';
-  const goBack = () => navigate(-1);
+  const goBack = () => navigate(from);
 
   return (
     <div>
